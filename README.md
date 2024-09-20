@@ -99,3 +99,5 @@ Note: Copy the license from loader to the burpsuite > manual activation > copy b
 * Modified from [cyb3rzest](https://github.com/cyb3rzest/Burp-Suite-Pro)
 </details>
 
+# BurpSuite-Pro
+BurpSuite Professional free for everyone
